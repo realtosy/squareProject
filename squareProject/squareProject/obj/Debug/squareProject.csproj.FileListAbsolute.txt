@@ -1,0 +1,7 @@
+C:\Users\Вадим\Desktop\projectC#\squareProject\squareProject\bin\Debug\squareProject.exe.config
+C:\Users\Вадим\Desktop\projectC#\squareProject\squareProject\bin\Debug\squareProject.exe
+C:\Users\Вадим\Desktop\projectC#\squareProject\squareProject\bin\Debug\squareProject.pdb
+C:\Users\Вадим\Desktop\projectC#\squareProject\squareProject\obj\Debug\squareProject.csprojAssemblyReference.cache
+C:\Users\Вадим\Desktop\projectC#\squareProject\squareProject\obj\Debug\squareProject.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\projectC#\squareProject\squareProject\obj\Debug\squareProject.exe
+C:\Users\Вадим\Desktop\projectC#\squareProject\squareProject\obj\Debug\squareProject.pdb
